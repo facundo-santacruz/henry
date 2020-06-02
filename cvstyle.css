@@ -1,0 +1,20 @@
+
+        body{
+            background-color: rgb(177, 208, 216);
+        }
+        img{
+            width: 100px;
+            margin: auto;
+        }
+        #cabecera{
+            font-size: 35px;
+            text-align: center;
+            text-decoration: underline;
+        }
+        #rasgos,#expectativas{
+            text-align: center;
+        }
+        h2{
+           text-decoration: underline; 
+        }
+    
